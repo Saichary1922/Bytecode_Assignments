@@ -5,7 +5,7 @@
 
 
 #Q1. Write a Python program to print the number 10.
-a=10
+a=5
 print(a)
 
 
